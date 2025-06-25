@@ -2,8 +2,8 @@
 
 ## Links
 
-* [View @ LeetCode](https://leetcode.com/problems/merge-sorted-array/description/)
-* [Video Walkthrough](https://youtu.be/_i-w-H0OhLQ)
+* [View @ LeetCode](https://leetcode.com/problems/merge-sorted-array/)
+* [Video Walkthrough](https://youtu.be/lwepSNduktQ)
 * [@Beautiful-TypeScript on YouTube](https://www.youtube.com/@BeautifulTypeScript)
 
 ## Probelm Statement
