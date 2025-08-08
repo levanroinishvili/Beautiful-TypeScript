@@ -1,3 +1,5 @@
+![Banner](/assets/LeetCode-Top-Interview-150.png)
+
 # LeetCode's Top Interview 150
 
 This repo and its campagnion YouTube Channel [Beautuful Typescript](https://www.youtube.com/@BeautifulTypeScript) will eventually and hopefully contain solutions and video walkthroughs for LeetCode's [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
