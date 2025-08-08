@@ -22,6 +22,8 @@ Follow the link above to see all the problem statements, to write code in multip
 ### By Topic
 * [Array / String](https://www.youtube.com/playlist?list=PLCWGDINDG2LkYHWxLcUnKfLskpgSqcCdY)
 * [Two Pointers](https://www.youtube.com/playlist?list=PLCWGDINDG2LnGkuU_C8Btm6WjJy-zagNR)
+* [Sliding Window](https://youtube.com/playlist?list=PLCWGDINDG2LmS3ypzCptyUItCGSbGruML)
+* [Matrix](https://www.youtube.com/playlist?list=PLCWGDINDG2LklRx790J5PCkP_aCbAjDZ4)
 
 ## About this Repo
 
